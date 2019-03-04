@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<players>
+   <player year="1985">
+      <firstname>Mike</firstname>
+      <lastname>Schmidt</lastname>
+      <salary>$2130300.0</salary>
+   </player>
+   <player year="1985">
+      <firstname>Gary</firstname>
+      <lastname>Carter</lastname>
+      <salary>$2028571.0</salary>
+   </player>
+   <player year="1985">
+      <firstname>George</firstname>
+      <lastname>Foster</lastname>
+      <salary>$1942857.0</salary>
+   </player>
+   <player year="1985">
+      <firstname>Dave</firstname>
+      <lastname>Winfield</lastname>
+      <salary>$1795704.0</salary>
+   </player>
+   <player year="1985">
+      <firstname>Rich</firstname>
+      <lastname>Gossage</lastname>
+      <salary>$1713333.0</salary>
+   </player>
+   <player year="1985">
+      <firstname>Dale</firstname>
+      <lastname>Murphy</lastname>
+      <salary>$1625000.0</salary>
+   </player>
+   <player year="1985">
+      <firstname>Jack</firstname>
+      <lastname>Clark</lastname>
+      <salary>$1555000.0</salary>
+   </player>
+   <player year="1985">
+      <firstname>Bob</firstname>
+      <lastname>Horner</lastname>
+      <salary>$1500000.0</salary>
+   </player>
+   <player year="1985">
+      <firstname>Eddie</firstname>
+      <lastname>Murray</lastname>
+      <salary>$1472819.0</salary>
+   </player>
+   <player year="1985">
+      <firstname>Rickey</firstname>
+      <lastname>Henderson</lastname>
+      <salary>$1470000.0</salary>
+   </player>
+</players>
