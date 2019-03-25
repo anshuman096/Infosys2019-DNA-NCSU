@@ -1,0 +1,1213 @@
+leftright,educ,gender,hhincome,age
+5,Graduate Degree,male,54999.5,50
+8,Some College,male,74999.5,47
+8,BA or BS,female,120000,37
+NA,No HS Diploma,male,5999.5,71
+10,HS Diploma,female,27499.5,62
+8,Graduate Degree,male,27499.5,53
+7,BA or BS,female,37499.5,49
+3,Some College,female,15999.5,56
+NA,Graduate Degree,male,120000,50
+8,Graduate Degree,female,120000,47
+3,No HS Diploma,male,64999.5,30
+NA,HS Diploma,female,9999.5,20
+10,Some College,male,47499.5,44
+5,HS Diploma,female,20999.5,33
+3,BA or BS,female,NA,34
+NA,BA or BS,male,120000,39
+NA,Some College,female,120000,54
+NA,HS Diploma,female,84999.5,40
+NA,HS Diploma,female,NA,35
+8,Some College,female,9999.5,33
+4,BA or BS,female,74999.5,31
+NA,BA or BS,female,54999.5,47
+NA,Some College,male,64999.5,37
+9,BA or BS,NA,37499.5,27
+10,No HS Diploma,female,9999.5,66
+NA,HS Diploma,female,37499.5,44
+4,HS Diploma,male,32499.5,73
+10,Some College,female,20999.5,26
+7,HS Diploma,female,20999.5,40
+5,Some College,female,84999.5,61
+NA,HS Diploma,male,20999.5,27
+NA,HS Diploma,female,64999.5,77
+NA,BA or BS,female,84999.5,50
+7,BA or BS,male,54999.5,31
+NA,Some College,female,27499.5,23
+8,No HS Diploma,female,9999.5,72
+NA,BA or BS,female,23499.5,90
+4,BA or BS,male,37499.5,46
+9,HS Diploma,male,42499.5,56
+8,Some College,female,NA,43
+8,BA or BS,male,NA,62
+6,HS Diploma,male,11999.5,59
+NA,No HS Diploma,female,NA,69
+5,Some College,NA,84999.5,30
+7,BA or BS,male,120000,55
+9,HS Diploma,female,84999.5,39
+NA,Graduate Degree,female,54999.5,55
+5,BA or BS,male,64999.5,59
+NA,HS Diploma,female,97499.5,54
+5,BA or BS,male,120000,47
+5,Some College,female,64999.5,32
+5,HS Diploma,female,27499.5,72
+NA,BA or BS,male,NA,22
+NA,HS Diploma,female,NA,43
+7,HS Diploma,male,84999.5,62
+6,Graduate Degree,male,120000,52
+7,BA or BS,male,120000,59
+7,HS Diploma,male,64999.5,26
+8,No HS Diploma,male,27499.5,59
+4,Some College,male,27499.5,22
+NA,HS Diploma,female,13999.5,77
+6,Some College,male,64999.5,60
+2,Graduate Degree,female,84999.5,41
+3,HS Diploma,female,11999.5,77
+NA,Some College,male,11999.5,42
+5,Some College,female,13999.5,81
+NA,HS Diploma,female,32499.5,40
+7,HS Diploma,male,37499.5,70
+5,HS Diploma,female,74999.5,47
+10,BA or BS,male,54999.5,77
+7,HS Diploma,male,13999.5,23
+8,Some College,male,120000,39
+7,BA or BS,male,74999.5,33
+6,BA or BS,male,84999.5,56
+7,BA or BS,male,NA,45
+NA,BA or BS,male,37499.5,42
+7,Some College,female,42499.5,28
+7,HS Diploma,male,74999.5,53
+NA,No HS Diploma,male,97499.5,39
+7,BA or BS,male,120000,51
+NA,BA or BS,male,11999.5,26
+NA,HS Diploma,female,NA,18
+10,HS Diploma,female,64999.5,55
+8,Some College,male,42499.5,64
+4,HS Diploma,male,74999.5,42
+7,HS Diploma,female,20999.5,71
+NA,Some College,male,97499.5,43
+6,Some College,male,42499.5,68
+5,Some College,male,NA,72
+10,HS Diploma,male,23499.5,74
+4,HS Diploma,female,47499.5,55
+7,BA or BS,female,120000,53
+1,HS Diploma,female,20999.5,67
+4,HS Diploma,female,54999.5,47
+3,Graduate Degree,female,120000,28
+2,BA or BS,female,74999.5,32
+NA,BA or BS,male,74999.5,38
+8,No HS Diploma,female,13999.5,42
+NA,No HS Diploma,NA,NA,38
+5,No HS Diploma,male,15999.5,64
+NA,BA or BS,female,74999.5,44
+5,HS Diploma,male,23499.5,18
+5,Some College,female,64999.5,61
+7,Graduate Degree,male,84999.5,67
+7,Graduate Degree,male,54999.5,75
+6,HS Diploma,male,37499.5,70
+NA,Some College,female,120000,27
+6,HS Diploma,male,74999.5,42
+7,HS Diploma,female,120000,45
+NA,No HS Diploma,female,120000,62
+3,Graduate Degree,female,120000,47
+NA,HS Diploma,female,9999.5,27
+8,HS Diploma,female,42499.5,28
+2,Graduate Degree,female,74999.5,58
+10,Some College,female,32499.5,34
+9,BA or BS,female,1499.5,42
+10,Some College,female,37499.5,24
+4,BA or BS,female,54999.5,43
+8,Some College,female,NA,43
+NA,HS Diploma,female,NA,72
+5,Some College,male,9999.5,22
+4,HS Diploma,NA,9999.5,73
+7,Graduate Degree,male,120000,61
+5,HS Diploma,male,74999.5,55
+6,BA or BS,male,42499.5,43
+NA,Some College,female,23499.5,25
+6,Some College,male,84999.5,21
+NA,Some College,male,120000,19
+3,Some College,male,97499.5,45
+2,Graduate Degree,male,120000,62
+NA,HS Diploma,female,NA,52
+8,HS Diploma,NA,54999.5,51
+5,Some College,male,NA,20
+7,Some College,female,47499.5,24
+3,Graduate Degree,male,97499.5,88
+5,No HS Diploma,male,74999.5,32
+3,HS Diploma,female,NA,66
+6,BA or BS,male,84999.5,73
+8,HS Diploma,male,20999.5,21
+NA,HS Diploma,female,20999.5,63
+5,Some College,male,27499.5,77
+NA,HS Diploma,female,18499.5,77
+4,Graduate Degree,female,27499.5,26
+4,BA or BS,male,120000,52
+NA,HS Diploma,female,47499.5,67
+10,Graduate Degree,male,97499.5,68
+7,HS Diploma,female,1499.5,47
+10,Some College,male,64999.5,46
+4,HS Diploma,male,42499.5,64
+8,Some College,female,47499.5,51
+5,HS Diploma,female,47499.5,46
+5,Some College,male,20999.5,23
+5,BA or BS,female,64999.5,39
+5,Some College,female,7999.5,22
+NA,BA or BS,female,42499.5,28
+4,Some College,female,32499.5,74
+NA,HS Diploma,female,32499.5,68
+NA,HS Diploma,female,23499.5,23
+2,BA or BS,female,84999.5,29
+NA,Some College,female,11999.5,80
+NA,Graduate Degree,female,120000,43
+6,Some College,female,NA,58
+2,Graduate Degree,male,120000,55
+NA,No HS Diploma,female,15999.5,78
+7,Some College,female,120000,58
+5,Graduate Degree,female,NA,45
+8,BA or BS,female,20999.5,49
+4,No HS Diploma,female,23499.5,29
+3,Graduate Degree,female,42499.5,58
+5,HS Diploma,female,23499.5,27
+NA,HS Diploma,female,15999.5,40
+7,Some College,male,74999.5,34
+2,Some College,male,97499.5,23
+7,HS Diploma,male,11999.5,62
+5,No HS Diploma,female,NA,18
+3,HS Diploma,male,64999.5,19
+8,No HS Diploma,male,NA,66
+9,Some College,male,NA,81
+5,BA or BS,male,NA,25
+3,Some College,male,42499.5,53
+5,Some College,male,7999.5,28
+8,Graduate Degree,female,112000,36
+7,BA or BS,female,112000,47
+6,Some College,male,54999.5,44
+8,Some College,female,84999.5,37
+5,No HS Diploma,female,3999.5,63
+7,BA or BS,male,120000,37
+10,HS Diploma,female,NA,71
+10,BA or BS,male,32499.5,47
+7,No HS Diploma,male,54999.5,38
+4,HS Diploma,female,NA,56
+8,Some College,male,37499.5,44
+4,BA or BS,male,120000,64
+8,BA or BS,male,112000,59
+5,HS Diploma,male,42499.5,55
+NA,Some College,female,112000,35
+7,Some College,female,64999.5,31
+5,Some College,female,32499.5,47
+7,Some College,male,42499.5,21
+5,No HS Diploma,female,20999.5,76
+3,Graduate Degree,male,120000,62
+8,Graduate Degree,male,NA,86
+3,Some College,female,74999.5,43
+5,Some College,male,NA,56
+4,Some College,female,120000,20
+5,HS Diploma,female,74999.5,34
+NA,Some College,female,97499.5,23
+7,No HS Diploma,male,42499.5,45
+5,Graduate Degree,male,120000,58
+2,Some College,male,84999.5,19
+5,Some College,female,97499.5,53
+NA,HS Diploma,male,23499.5,24
+6,Some College,male,74999.5,30
+NA,BA or BS,female,120000,50
+6,No HS Diploma,female,NA,63
+10,Some College,NA,18499.5,47
+2,Some College,female,32499.5,73
+5,HS Diploma,female,27499.5,41
+1,Graduate Degree,male,112000,62
+NA,HS Diploma,female,NA,82
+8,Some College,male,37499.5,21
+NA,BA or BS,male,120000,38
+6,Some College,female,18499.5,50
+10,Some College,female,120000,66
+3,Some College,male,120000,59
+6,Some College,male,120000,63
+5,BA or BS,female,20999.5,25
+NA,Some College,female,84999.5,38
+7,HS Diploma,female,7999.5,28
+6,BA or BS,male,74999.5,67
+NA,Some College,male,54999.5,60
+NA,Some College,female,NA,62
+8,BA or BS,male,54999.5,48
+8,HS Diploma,male,64999.5,44
+10,HS Diploma,male,42499.5,59
+NA,Some College,female,112000,39
+8,Some College,female,112000,82
+10,No HS Diploma,female,1499.5,61
+5,Graduate Degree,female,120000,54
+5,Some College,NA,23499.5,51
+5,HS Diploma,female,11999.5,35
+3,HS Diploma,female,54999.5,54
+10,BA or BS,male,27499.5,58
+NA,Graduate Degree,male,NA,27
+NA,BA or BS,female,NA,58
+4,Some College,male,74999.5,40
+NA,HS Diploma,male,9999.5,22
+NA,No HS Diploma,male,42499.5,19
+NA,No HS Diploma,female,9999.5,68
+7,Some College,male,13999.5,65
+7,Some College,male,NA,76
+5,Graduate Degree,male,120000,69
+3,HS Diploma,female,27499.5,25
+7,Some College,female,NA,65
+5,HS Diploma,male,7999.5,56
+NA,Some College,male,NA,39
+NA,HS Diploma,female,32499.5,82
+8,No HS Diploma,female,11999.5,77
+NA,Some College,female,11999.5,23
+5,BA or BS,male,120000,51
+7,Graduate Degree,female,54999.5,40
+2,Graduate Degree,female,27499.5,78
+9,HS Diploma,male,54999.5,48
+5,HS Diploma,female,NA,46
+4,BA or BS,male,42499.5,73
+8,HS Diploma,male,74999.5,51
+NA,No HS Diploma,male,NA,50
+4,Graduate Degree,female,120000,37
+6,HS Diploma,male,47499.5,56
+5,Some College,female,NA,46
+NA,Some College,male,5999.5,20
+6,Some College,male,32499.5,30
+5,Some College,female,27499.5,25
+NA,No HS Diploma,female,7999.5,65
+4,Some College,female,37499.5,31
+6,HS Diploma,male,15999.5,70
+7,Some College,male,74999.5,52
+NA,Some College,female,20999.5,22
+NA,BA or BS,male,54999.5,38
+9,Some College,female,84999.5,53
+NA,Some College,female,37499.5,48
+7,BA or BS,female,54999.5,29
+5,HS Diploma,male,120000,52
+9,HS Diploma,male,120000,60
+8,BA or BS,male,42499.5,80
+8,HS Diploma,female,15999.5,57
+NA,No HS Diploma,male,32499.5,63
+NA,Some College,female,NA,61
+NA,No HS Diploma,male,NA,36
+7,Some College,male,32499.5,23
+NA,BA or BS,male,120000,78
+5,Some College,male,NA,28
+NA,HS Diploma,female,15999.5,26
+5,Some College,male,120000,35
+2,Graduate Degree,male,120000,66
+8,BA or BS,female,97499.5,50
+NA,HS Diploma,male,23499.5,34
+6,Graduate Degree,male,64999.5,60
+5,HS Diploma,male,54999.5,50
+6,Some College,female,74999.5,45
+7,No HS Diploma,male,9999.5,54
+9,HS Diploma,female,NA,42
+5,Some College,female,20999.5,25
+3,Graduate Degree,female,47499.5,31
+6,BA or BS,female,NA,30
+3,BA or BS,female,120000,41
+6,BA or BS,NA,120000,55
+8,HS Diploma,male,120000,62
+5,HS Diploma,female,54999.5,74
+8,Graduate Degree,male,120000,47
+5,Some College,female,54999.5,41
+8,HS Diploma,NA,NA,48
+5,HS Diploma,male,37499.5,71
+NA,HS Diploma,male,54999.5,38
+7,BA or BS,male,54999.5,39
+7,Graduate Degree,male,54999.5,61
+5,HS Diploma,female,15999.5,73
+NA,No HS Diploma,female,18499.5,41
+NA,Some College,male,97499.5,41
+7,HS Diploma,male,NA,41
+NA,Some College,female,42499.5,24
+NA,BA or BS,female,23499.5,28
+7,BA or BS,male,84999.5,49
+2,Graduate Degree,male,112000,58
+10,Some College,male,32499.5,27
+6,HS Diploma,male,27499.5,57
+8,No HS Diploma,male,97499.5,52
+8,BA or BS,male,42499.5,54
+5,Some College,female,42499.5,35
+6,Some College,female,37499.5,53
+6,HS Diploma,male,120000,45
+10,HS Diploma,female,NA,19
+5,BA or BS,male,112000,37
+1,Some College,female,27499.5,38
+5,HS Diploma,female,NA,78
+7,Some College,female,NA,57
+NA,HS Diploma,female,NA,55
+7,Some College,male,120000,32
+2,Some College,male,54999.5,24
+10,BA or BS,female,120000,47
+6,Some College,male,84999.5,46
+NA,BA or BS,female,54999.5,22
+6,HS Diploma,female,11999.5,51
+3,Some College,male,64999.5,39
+NA,Some College,female,37499.5,46
+5,Some College,male,42499.5,38
+8,HS Diploma,male,NA,20
+1,Some College,male,84999.5,53
+8,No HS Diploma,female,NA,82
+4,BA or BS,male,97499.5,33
+2,BA or BS,female,64999.5,62
+NA,HS Diploma,female,9999.5,72
+4,HS Diploma,male,15999.5,44
+1,Graduate Degree,male,120000,76
+10,Some College,female,84999.5,31
+6,BA or BS,female,54999.5,24
+5,No HS Diploma,female,47499.5,78
+NA,HS Diploma,NA,18499.5,70
+5,Some College,male,42499.5,28
+7,HS Diploma,female,18499.5,70
+5,No HS Diploma,male,32499.5,69
+6,Some College,female,32499.5,56
+5,HS Diploma,female,9999.5,32
+10,BA or BS,female,54999.5,35
+1,Graduate Degree,female,120000,53
+5,Some College,male,27499.5,79
+7,No HS Diploma,male,3999.5,83
+8,Graduate Degree,female,47499.5,63
+5,Some College,male,13999.5,28
+5,HS Diploma,male,97499.5,44
+5,Some College,female,47499.5,38
+5,HS Diploma,male,27499.5,24
+6,HS Diploma,male,112000,41
+NA,HS Diploma,male,54999.5,46
+NA,Some College,female,37499.5,39
+5,Some College,female,74999.5,62
+7,HS Diploma,male,11999.5,63
+NA,No HS Diploma,male,NA,33
+10,HS Diploma,male,7999.5,54
+3,Some College,female,64999.5,27
+7,Some College,male,37499.5,27
+5,Graduate Degree,female,37499.5,75
+NA,HS Diploma,female,64999.5,42
+10,HS Diploma,NA,3999.5,88
+8,No HS Diploma,male,15999.5,52
+NA,No HS Diploma,female,7999.5,46
+NA,HS Diploma,female,27499.5,25
+NA,Some College,female,42499.5,49
+5,Some College,female,54999.5,58
+5,Some College,female,37499.5,28
+5,Some College,female,54999.5,27
+8,Some College,female,15999.5,50
+7,Graduate Degree,male,54999.5,74
+NA,Some College,female,42499.5,59
+4,Graduate Degree,male,112000,49
+8,HS Diploma,female,74999.5,41
+8,BA or BS,female,64999.5,33
+8,No HS Diploma,male,NA,51
+3,BA or BS,female,47499.5,50
+10,Some College,female,64999.5,72
+NA,HS Diploma,female,27499.5,65
+5,Graduate Degree,female,32499.5,55
+5,Some College,female,97499.5,51
+0,Graduate Degree,female,37499.5,88
+NA,HS Diploma,female,42499.5,52
+3,BA or BS,male,37499.5,48
+NA,No HS Diploma,female,18499.5,25
+NA,Some College,male,47499.5,62
+5,BA or BS,female,23499.5,34
+7,HS Diploma,female,32499.5,25
+5,No HS Diploma,male,23499.5,77
+5,Some College,female,NA,65
+6,No HS Diploma,female,42499.5,48
+7,HS Diploma,male,11999.5,33
+NA,No HS Diploma,female,64999.5,58
+NA,Some College,female,64999.5,46
+9,HS Diploma,male,32499.5,34
+2,HS Diploma,female,74999.5,55
+5,BA or BS,female,13999.5,75
+NA,BA or BS,male,13999.5,24
+NA,No HS Diploma,NA,NA,73
+3,HS Diploma,female,32499.5,65
+7,BA or BS,male,112000,50
+NA,HS Diploma,female,37499.5,63
+5,HS Diploma,NA,NA,24
+2,BA or BS,male,54999.5,52
+3,Graduate Degree,female,74999.5,72
+7,Graduate Degree,female,42499.5,31
+4,Graduate Degree,male,54999.5,53
+NA,Some College,female,42499.5,51
+NA,HS Diploma,female,47499.5,26
+8,HS Diploma,male,54999.5,42
+NA,Some College,NA,1499.5,29
+5,Some College,male,37499.5,25
+9,BA or BS,female,NA,58
+NA,HS Diploma,female,27499.5,34
+3,BA or BS,male,54999.5,46
+2,HS Diploma,female,32499.5,64
+4,BA or BS,female,84999.5,28
+NA,HS Diploma,female,27499.5,57
+5,HS Diploma,female,3999.5,45
+NA,HS Diploma,male,9999.5,33
+9,HS Diploma,male,64999.5,39
+6,BA or BS,male,120000,68
+7,Some College,male,37499.5,76
+9,Some College,male,NA,41
+NA,HS Diploma,female,5999.5,23
+NA,Some College,female,97499.5,45
+7,BA or BS,female,120000,28
+NA,Some College,male,32499.5,66
+NA,BA or BS,female,NA,57
+7,No HS Diploma,male,32499.5,64
+3,Some College,female,18499.5,48
+NA,BA or BS,female,112000,38
+7,No HS Diploma,male,9999.5,43
+7,HS Diploma,female,27499.5,68
+6,Graduate Degree,female,112000,62
+3,BA or BS,male,74999.5,32
+5,HS Diploma,male,74999.5,56
+NA,Some College,female,32499.5,55
+9,HS Diploma,female,NA,58
+0,BA or BS,NA,9999.5,24
+6,HS Diploma,male,54999.5,26
+5,Some College,female,112000,81
+6,Some College,male,97499.5,33
+NA,Some College,male,NA,73
+5,HS Diploma,male,64999.5,36
+5,HS Diploma,male,13999.5,65
+10,Some College,female,42499.5,69
+1,No HS Diploma,male,27499.5,19
+8,Some College,male,64999.5,67
+7,Some College,male,32499.5,40
+9,BA or BS,female,120000,46
+8,BA or BS,female,64999.5,35
+5,Some College,female,3999.5,23
+5,HS Diploma,female,74999.5,79
+5,Some College,female,54999.5,32
+5,HS Diploma,female,27499.5,58
+NA,BA or BS,female,120000,59
+3,Some College,female,112000,53
+NA,HS Diploma,male,54999.5,43
+7,Some College,female,47499.5,31
+3,Some College,female,32499.5,32
+5,Graduate Degree,female,15999.5,28
+5,HS Diploma,male,20999.5,23
+7,BA or BS,NA,84999.5,35
+8,BA or BS,female,NA,75
+6,Some College,male,84999.5,22
+8,Graduate Degree,male,120000,63
+7,No HS Diploma,male,15999.5,25
+6,HS Diploma,female,32499.5,39
+10,HS Diploma,female,1499.5,24
+6,BA or BS,male,32499.5,24
+6,HS Diploma,female,27499.5,67
+NA,HS Diploma,male,37499.5,52
+3,BA or BS,male,84999.5,56
+5,HS Diploma,male,27499.5,34
+10,HS Diploma,female,64999.5,54
+0,BA or BS,female,42499.5,29
+2,HS Diploma,female,120000,56
+9,Graduate Degree,male,120000,37
+NA,Some College,male,84999.5,46
+2,Some College,female,27499.5,24
+NA,HS Diploma,female,64999.5,35
+10,Graduate Degree,male,74999.5,65
+NA,No HS Diploma,female,11999.5,20
+4,BA or BS,female,54999.5,24
+1,Graduate Degree,female,120000,35
+NA,No HS Diploma,female,20999.5,82
+7,HS Diploma,male,120000,29
+0,BA or BS,female,120000,53
+3,Some College,female,42499.5,45
+10,HS Diploma,male,64999.5,40
+9,Some College,male,97499.5,51
+NA,HS Diploma,female,7999.5,46
+NA,HS Diploma,female,23499.5,60
+NA,HS Diploma,female,47499.5,65
+9,HS Diploma,male,42499.5,75
+NA,HS Diploma,female,5999.5,22
+NA,Some College,male,64999.5,49
+NA,HS Diploma,female,NA,29
+NA,HS Diploma,female,NA,29
+7,BA or BS,male,54999.5,43
+8,No HS Diploma,male,7999.5,43
+NA,HS Diploma,female,74999.5,45
+10,No HS Diploma,female,23499.5,76
+6,Graduate Degree,female,54999.5,39
+8,BA or BS,female,NA,58
+NA,Some College,female,42499.5,49
+7,HS Diploma,female,120000,51
+8,Graduate Degree,female,84999.5,40
+NA,BA or BS,female,97499.5,41
+NA,Some College,male,NA,44
+5,Some College,male,47499.5,43
+6,BA or BS,male,120000,62
+6,Graduate Degree,male,74999.5,48
+NA,HS Diploma,female,32499.5,65
+3,Some College,female,37499.5,23
+6,Graduate Degree,male,54999.5,48
+NA,HS Diploma,female,15999.5,52
+5,HS Diploma,female,23499.5,63
+7,BA or BS,male,74999.5,69
+10,No HS Diploma,female,1499.5,49
+9,Some College,female,84999.5,58
+8,Some College,male,5999.5,19
+5,Some College,female,NA,79
+3,Some College,male,54999.5,28
+NA,No HS Diploma,female,NA,25
+NA,HS Diploma,female,13999.5,43
+6,Some College,female,NA,76
+5,HS Diploma,female,20999.5,44
+3,BA or BS,female,74999.5,29
+NA,BA or BS,male,47499.5,65
+NA,No HS Diploma,female,NA,20
+6,BA or BS,male,13999.5,41
+9,HS Diploma,male,54999.5,35
+8,HS Diploma,male,7999.5,37
+5,Some College,female,54999.5,38
+0,Some College,female,15999.5,28
+5,Some College,male,23499.5,56
+5,Some College,female,37499.5,38
+5,Graduate Degree,female,3999.5,57
+1,Some College,female,84999.5,57
+10,HS Diploma,male,84999.5,52
+9,Graduate Degree,male,120000,72
+0,HS Diploma,female,20999.5,70
+8,HS Diploma,male,NA,58
+4,Graduate Degree,male,23499.5,67
+7,Graduate Degree,female,112000,77
+NA,No HS Diploma,male,42499.5,42
+2,Graduate Degree,female,74999.5,46
+2,Graduate Degree,female,97499.5,31
+6,No HS Diploma,male,13999.5,55
+7,HS Diploma,male,112000,28
+NA,Some College,female,54999.5,41
+5,HS Diploma,female,1499.5,18
+5,HS Diploma,female,32499.5,49
+9,Some College,male,120000,56
+8,HS Diploma,male,11999.5,51
+5,Some College,female,3999.5,21
+NA,BA or BS,female,47499.5,56
+3,HS Diploma,female,NA,47
+7,Graduate Degree,male,42499.5,61
+10,HS Diploma,female,23499.5,83
+NA,HS Diploma,female,74999.5,36
+4,Graduate Degree,female,97499.5,63
+5,No HS Diploma,male,9999.5,66
+8,BA or BS,female,84999.5,56
+2,Some College,female,5999.5,19
+2,Graduate Degree,male,120000,34
+NA,Some College,female,NA,30
+8,Some College,male,NA,55
+NA,HS Diploma,female,32499.5,70
+5,BA or BS,female,18499.5,48
+7,HS Diploma,male,37499.5,62
+9,HS Diploma,male,5999.5,67
+6,Some College,female,15999.5,44
+NA,HS Diploma,female,NA,48
+5,BA or BS,male,54999.5,26
+5,Some College,female,18499.5,20
+4,No HS Diploma,male,74999.5,35
+6,Graduate Degree,male,97499.5,63
+NA,BA or BS,female,84999.5,38
+2,Graduate Degree,female,47499.5,83
+2,HS Diploma,female,112000,56
+5,Some College,male,47499.5,56
+5,Some College,female,54999.5,57
+NA,BA or BS,female,42499.5,40
+9,HS Diploma,female,112000,64
+5,Some College,female,74999.5,57
+4,Graduate Degree,female,64999.5,31
+6,BA or BS,male,74999.5,34
+4,Some College,female,120000,38
+5,BA or BS,female,64999.5,27
+NA,HS Diploma,male,NA,64
+4,Graduate Degree,female,112000,56
+5,Some College,male,23499.5,48
+10,Some College,female,42499.5,57
+NA,HS Diploma,female,18499.5,25
+10,HS Diploma,female,11999.5,62
+NA,HS Diploma,male,74999.5,35
+5,HS Diploma,male,64999.5,63
+3,BA or BS,male,54999.5,50
+2,Graduate Degree,female,97499.5,33
+7,BA or BS,male,74999.5,52
+5,HS Diploma,female,23499.5,84
+NA,Some College,female,27499.5,38
+NA,HS Diploma,female,9999.5,82
+NA,HS Diploma,female,9999.5,44
+5,HS Diploma,male,5999.5,22
+5,Some College,male,27499.5,70
+5,BA or BS,male,13999.5,57
+2,BA or BS,male,64999.5,47
+NA,HS Diploma,male,54999.5,56
+8,Some College,female,15999.5,74
+NA,HS Diploma,female,23499.5,53
+5,Graduate Degree,male,120000,57
+5,Some College,male,37499.5,27
+NA,Some College,male,120000,21
+5,Graduate Degree,female,54999.5,45
+5,HS Diploma,female,32499.5,68
+5,HS Diploma,male,84999.5,22
+9,BA or BS,male,NA,61
+7,No HS Diploma,female,27499.5,18
+8,BA or BS,female,97499.5,30
+6,Some College,male,112000,64
+5,Some College,male,27499.5,31
+5,HS Diploma,female,7999.5,23
+8,Some College,female,97499.5,74
+2,Graduate Degree,female,120000,54
+8,Some College,female,84999.5,21
+10,No HS Diploma,female,13999.5,69
+2,Graduate Degree,female,97499.5,38
+NA,Some College,female,54999.5,33
+1,BA or BS,female,23499.5,27
+9,Graduate Degree,male,120000,48
+5,HS Diploma,female,54999.5,58
+NA,HS Diploma,female,54999.5,62
+5,Graduate Degree,female,27499.5,64
+NA,BA or BS,female,120000,41
+8,BA or BS,male,84999.5,41
+NA,HS Diploma,male,47499.5,23
+NA,HS Diploma,female,47499.5,48
+9,HS Diploma,female,1499.5,31
+1,Some College,male,NA,46
+10,Some College,male,23499.5,84
+NA,No HS Diploma,female,13999.5,21
+5,HS Diploma,female,120000,45
+8,Some College,female,18499.5,21
+NA,BA or BS,female,120000,78
+4,BA or BS,male,74999.5,41
+5,HS Diploma,male,NA,33
+5,Some College,male,84999.5,21
+5,Some College,male,1499.5,37
+6,Some College,male,120000,44
+7,HS Diploma,female,64999.5,47
+NA,HS Diploma,male,NA,23
+NA,BA or BS,female,120000,36
+NA,HS Diploma,female,1499.5,39
+9,Graduate Degree,female,120000,61
+5,No HS Diploma,male,18499.5,25
+7,Some College,male,64999.5,27
+5,Some College,male,32499.5,27
+5,Graduate Degree,male,120000,57
+NA,Some College,male,23499.5,26
+NA,Some College,female,74999.5,46
+10,No HS Diploma,male,NA,40
+8,BA or BS,female,112000,31
+NA,Graduate Degree,male,120000,42
+0,Graduate Degree,male,15999.5,42
+7,BA or BS,male,84999.5,71
+9,Graduate Degree,female,120000,60
+NA,Some College,female,NA,19
+2,No HS Diploma,male,15999.5,49
+NA,No HS Diploma,female,7999.5,40
+5,HS Diploma,female,47499.5,52
+5,Some College,male,27499.5,58
+1,Graduate Degree,male,1499.5,61
+8,BA or BS,female,20999.5,25
+NA,HS Diploma,female,23499.5,60
+NA,HS Diploma,female,27499.5,77
+8,No HS Diploma,female,NA,63
+5,Some College,female,47499.5,26
+7,Some College,female,64999.5,27
+1,BA or BS,male,97499.5,45
+8,Some College,male,97499.5,56
+6,Some College,male,NA,36
+8,No HS Diploma,female,1499.5,19
+8,Some College,female,27499.5,26
+5,Some College,NA,27499.5,61
+5,Some College,female,64999.5,56
+NA,HS Diploma,male,120000,19
+NA,No HS Diploma,male,NA,38
+5,Some College,female,42499.5,48
+5,BA or BS,female,54999.5,45
+8,Some College,female,23499.5,36
+5,BA or BS,female,37499.5,83
+10,Graduate Degree,female,27499.5,65
+10,BA or BS,female,84999.5,35
+8,Some College,female,54999.5,63
+5,No HS Diploma,female,42499.5,63
+6,BA or BS,male,112000,29
+4,No HS Diploma,female,20999.5,81
+7,HS Diploma,female,64999.5,26
+NA,HS Diploma,male,5999.5,19
+NA,BA or BS,female,NA,25
+7,No HS Diploma,male,32499.5,26
+5,No HS Diploma,female,7999.5,78
+8,HS Diploma,female,23499.5,47
+1,Some College,male,32499.5,57
+5,Some College,male,37499.5,23
+NA,Some College,male,32499.5,28
+7,Some College,female,54999.5,20
+5,HS Diploma,female,18499.5,19
+6,Some College,female,64999.5,50
+3,Some College,female,64999.5,49
+4,Some College,male,27499.5,25
+5,HS Diploma,male,32499.5,44
+9,Graduate Degree,female,54999.5,60
+10,Some College,male,64999.5,55
+3,Some College,male,15999.5,51
+10,Some College,male,23499.5,41
+2,Graduate Degree,female,NA,46
+NA,HS Diploma,female,37499.5,57
+NA,Some College,female,NA,43
+NA,Some College,female,47499.5,49
+3,No HS Diploma,female,NA,62
+9,HS Diploma,male,NA,25
+4,Some College,male,64999.5,37
+NA,No HS Diploma,NA,9999.5,31
+7,HS Diploma,male,74999.5,41
+10,Some College,male,47499.5,50
+5,BA or BS,male,120000,39
+NA,HS Diploma,female,13999.5,60
+5,Graduate Degree,male,97499.5,45
+3,Some College,female,74999.5,30
+5,HS Diploma,NA,NA,49
+NA,HS Diploma,female,74999.5,58
+5,BA or BS,female,112000,23
+5,HS Diploma,female,3999.5,30
+7,HS Diploma,male,120000,46
+10,Some College,male,64999.5,36
+5,HS Diploma,male,37499.5,76
+6,Some College,female,NA,41
+5,No HS Diploma,male,NA,77
+7,Some College,female,37499.5,45
+4,BA or BS,female,74999.5,70
+7,Graduate Degree,female,120000,45
+NA,BA or BS,male,1499.5,47
+8,BA or BS,male,47499.5,39
+10,Some College,male,11999.5,29
+6,BA or BS,male,64999.5,36
+10,BA or BS,female,20999.5,66
+3,BA or BS,female,47499.5,31
+4,Some College,male,112000,54
+7,BA or BS,female,27499.5,24
+10,Some College,male,97499.5,22
+5,BA or BS,female,32499.5,31
+10,Some College,female,18499.5,35
+10,HS Diploma,female,54999.5,62
+NA,Some College,male,42499.5,37
+3,Graduate Degree,NA,42499.5,33
+10,BA or BS,male,97499.5,37
+NA,No HS Diploma,male,NA,87
+5,HS Diploma,male,74999.5,28
+6,BA or BS,female,64999.5,42
+6,HS Diploma,male,54999.5,27
+8,Some College,male,32499.5,60
+8,BA or BS,male,120000,65
+4,BA or BS,male,74999.5,32
+2,Graduate Degree,female,47499.5,42
+8,HS Diploma,male,42499.5,36
+5,HS Diploma,female,9999.5,65
+10,Some College,female,64999.5,39
+5,HS Diploma,female,42499.5,57
+5,Some College,female,84999.5,51
+3,Some College,female,120000,68
+4,BA or BS,female,64999.5,33
+NA,HS Diploma,male,32499.5,33
+7,Some College,female,23499.5,23
+8,Some College,female,11999.5,61
+5,BA or BS,female,42499.5,50
+5,HS Diploma,male,37499.5,55
+NA,No HS Diploma,female,47499.5,53
+8,HS Diploma,male,47499.5,22
+5,HS Diploma,male,54999.5,67
+5,HS Diploma,male,47499.5,74
+5,HS Diploma,female,64999.5,36
+5,Some College,female,37499.5,26
+5,HS Diploma,female,20999.5,42
+6,HS Diploma,female,42499.5,66
+1,Graduate Degree,female,NA,48
+7,Graduate Degree,male,120000,46
+NA,Some College,female,74999.5,55
+6,Some College,male,97499.5,49
+NA,HS Diploma,female,7999.5,48
+NA,Graduate Degree,female,47499.5,58
+6,Some College,female,42499.5,39
+5,HS Diploma,male,120000,61
+NA,HS Diploma,male,NA,82
+NA,No HS Diploma,male,NA,59
+2,BA or BS,male,64999.5,29
+5,HS Diploma,female,32499.5,46
+5,HS Diploma,female,NA,81
+5,No HS Diploma,female,NA,57
+6,No HS Diploma,male,7999.5,85
+NA,HS Diploma,female,NA,64
+9,HS Diploma,female,42499.5,59
+10,Some College,female,97499.5,19
+3,HS Diploma,male,NA,42
+NA,HS Diploma,male,NA,76
+4,BA or BS,male,120000,38
+5,BA or BS,male,NA,29
+4,BA or BS,male,97499.5,27
+5,HS Diploma,male,23499.5,48
+6,BA or BS,male,54999.5,53
+7,Some College,female,42499.5,35
+5,Some College,female,15999.5,60
+7,BA or BS,female,27499.5,53
+3,HS Diploma,male,NA,52
+4,Some College,female,5999.5,77
+7,BA or BS,male,9999.5,52
+4,BA or BS,male,112000,57
+NA,HS Diploma,female,20999.5,64
+9,Graduate Degree,female,64999.5,56
+5,HS Diploma,female,64999.5,44
+NA,HS Diploma,male,42499.5,77
+NA,HS Diploma,female,9999.5,52
+5,HS Diploma,female,27499.5,84
+NA,Graduate Degree,male,84999.5,58
+7,Some College,female,11999.5,74
+NA,Some College,female,112000,52
+NA,Some College,male,74999.5,51
+NA,BA or BS,female,NA,74
+NA,Some College,female,23499.5,28
+7,BA or BS,female,120000,43
+NA,Graduate Degree,female,74999.5,64
+NA,Some College,male,64999.5,64
+5,Some College,male,37499.5,34
+10,HS Diploma,female,42499.5,63
+NA,Some College,female,NA,55
+NA,BA or BS,female,120000,54
+NA,HS Diploma,male,120000,18
+5,HS Diploma,male,64999.5,46
+NA,Graduate Degree,male,74999.5,29
+NA,HS Diploma,female,5999.5,88
+5,HS Diploma,female,112000,29
+NA,No HS Diploma,female,5999.5,22
+7,Some College,female,42499.5,53
+NA,Some College,female,NA,35
+NA,Some College,female,NA,86
+6,BA or BS,female,32499.5,48
+2,Some College,female,37499.5,29
+2,BA or BS,female,112000,41
+5,Some College,female,NA,46
+7,BA or BS,NA,74999.5,79
+5,HS Diploma,male,23499.5,69
+6,Some College,male,3999.5,34
+NA,Graduate Degree,female,84999.5,43
+7,Some College,female,54999.5,50
+1,HS Diploma,male,15999.5,45
+8,BA or BS,male,NA,31
+2,Some College,female,5999.5,39
+5,Some College,female,13999.5,56
+4,Graduate Degree,female,37499.5,32
+5,HS Diploma,female,11999.5,80
+9,BA or BS,male,120000,46
+NA,Some College,male,32499.5,49
+5,Some College,male,84999.5,20
+6,No HS Diploma,male,64999.5,57
+NA,BA or BS,male,NA,44
+5,HS Diploma,female,23499.5,76
+9,Some College,female,64999.5,24
+NA,Some College,female,23499.5,32
+8,Graduate Degree,NA,120000,45
+10,No HS Diploma,male,1499.5,62
+5,Some College,male,84999.5,65
+3,HS Diploma,male,97499.5,61
+5,Some College,female,54999.5,61
+6,HS Diploma,male,42499.5,39
+1,Graduate Degree,female,64999.5,63
+5,Some College,female,54999.5,54
+1,Some College,male,84999.5,64
+8,HS Diploma,female,NA,75
+7,Graduate Degree,female,NA,53
+5,HS Diploma,male,NA,60
+7,Graduate Degree,male,120000,63
+7,Some College,male,97499.5,36
+4,Graduate Degree,female,47499.5,47
+9,Some College,male,9999.5,46
+0,HS Diploma,female,37499.5,35
+5,HS Diploma,male,NA,52
+5,Some College,male,23499.5,43
+7,BA or BS,female,47499.5,52
+5,HS Diploma,female,23499.5,77
+4,Graduate Degree,male,112000,40
+8,Some College,male,74999.5,63
+3,Graduate Degree,male,112000,29
+10,HS Diploma,female,20999.5,61
+NA,HS Diploma,male,42499.5,65
+6,BA or BS,male,NA,55
+2,BA or BS,female,11999.5,28
+5,HS Diploma,female,20999.5,19
+5,Some College,female,20999.5,75
+5,HS Diploma,female,20999.5,34
+5,BA or BS,male,120000,51
+NA,Some College,male,NA,69
+7,Some College,male,74999.5,41
+NA,Some College,male,97499.5,40
+5,Some College,male,11999.5,74
+5,HS Diploma,female,NA,62
+8,No HS Diploma,female,27499.5,86
+4,HS Diploma,female,11999.5,19
+6,Graduate Degree,NA,84999.5,63
+8,No HS Diploma,female,1499.5,29
+5,Some College,female,15999.5,52
+7,Graduate Degree,male,NA,68
+4,Some College,male,NA,50
+5,HS Diploma,male,120000,64
+5,No HS Diploma,male,32499.5,43
+10,Some College,male,32499.5,27
+NA,Some College,female,42499.5,66
+5,Some College,female,9999.5,23
+NA,Some College,female,32499.5,40
+8,Graduate Degree,female,112000,41
+5,HS Diploma,male,NA,39
+6,BA or BS,female,74999.5,28
+NA,No HS Diploma,male,120000,48
+NA,Some College,male,74999.5,37
+5,BA or BS,female,54999.5,29
+1,Graduate Degree,male,120000,58
+NA,HS Diploma,female,20999.5,65
+8,Some College,female,47499.5,51
+3,BA or BS,male,74999.5,27
+5,Some College,female,15999.5,67
+NA,No HS Diploma,male,7999.5,83
+NA,Some College,male,74999.5,35
+5,Graduate Degree,male,112000,73
+NA,Some College,female,54999.5,38
+3,HS Diploma,female,32499.5,66
+NA,HS Diploma,male,37499.5,18
+7,Some College,male,9999.5,47
+9,No HS Diploma,female,1499.5,71
+6,Some College,male,23499.5,49
+7,HS Diploma,male,NA,68
+5,BA or BS,female,27499.5,71
+4,HS Diploma,male,47499.5,18
+NA,BA or BS,male,20999.5,59
+NA,HS Diploma,female,7999.5,19
+5,HS Diploma,female,NA,37
+NA,HS Diploma,male,20999.5,22
+4,HS Diploma,female,42499.5,71
+4,Some College,male,5999.5,20
+6,Graduate Degree,female,NA,40
+9,HS Diploma,female,NA,30
+0,HS Diploma,female,64999.5,44
+4,Some College,male,7999.5,28
+NA,BA or BS,female,47499.5,29
+5,BA or BS,male,120000,52
+NA,HS Diploma,male,9999.5,20
+2,Graduate Degree,male,97499.5,40
+4,HS Diploma,male,15999.5,23
+7,Graduate Degree,male,74999.5,64
+7,BA or BS,female,NA,38
+4,Some College,female,97499.5,57
+4,Some College,male,84999.5,52
+5,Some College,female,84999.5,44
+3,BA or BS,male,42499.5,35
+7,HS Diploma,male,97499.5,37
+6,Some College,male,23499.5,32
+10,HS Diploma,female,3999.5,37
+10,Some College,female,74999.5,38
+9,HS Diploma,female,NA,69
+5,Some College,male,32499.5,19
+NA,Some College,NA,47499.5,30
+8,Some College,male,120000,77
+6,Some College,female,84999.5,58
+NA,BA or BS,female,42499.5,31
+NA,No HS Diploma,male,18499.5,80
+8,HS Diploma,female,47499.5,29
+7,No HS Diploma,male,18499.5,79
+5,HS Diploma,female,47499.5,57
+5,Some College,male,32499.5,42
+NA,Some College,female,9999.5,20
+6,HS Diploma,male,47499.5,33
+5,No HS Diploma,male,47499.5,28
+4,Graduate Degree,male,97499.5,49
+9,BA or BS,male,5999.5,65
+NA,Some College,female,NA,48
+5,Some College,female,5999.5,90
+NA,Some College,female,97499.5,57
+8,Some College,female,74999.5,43
+7,BA or BS,female,97499.5,51
+NA,No HS Diploma,male,32499.5,32
+5,No HS Diploma,male,13999.5,60
+7,HS Diploma,female,NA,73
+8,Some College,female,97499.5,50
+3,BA or BS,male,47499.5,23
+5,HS Diploma,male,23499.5,57
+5,Graduate Degree,female,97499.5,38
+NA,Some College,male,64999.5,24
+NA,HS Diploma,female,18499.5,65
+6,Some College,male,84999.5,51
+6,Graduate Degree,female,84999.5,28
+5,Some College,NA,120000,33
+5,BA or BS,female,47499.5,56
+NA,HS Diploma,male,32499.5,26
+8,HS Diploma,male,42499.5,61
+NA,HS Diploma,female,84999.5,51
+10,HS Diploma,male,18499.5,45
+1,Graduate Degree,male,54999.5,64
+8,BA or BS,male,74999.5,41
+4,Some College,male,7999.5,33
+NA,HS Diploma,female,7999.5,34
+4,Some College,male,37499.5,39
+NA,BA or BS,male,112000,31
+5,No HS Diploma,male,NA,22
+10,BA or BS,female,54999.5,55
+7,BA or BS,male,120000,59
+6,Some College,female,64999.5,54
+3,HS Diploma,female,18499.5,66
+NA,BA or BS,female,97499.5,40
+NA,HS Diploma,female,54999.5,72
+NA,HS Diploma,female,37499.5,45
+10,HS Diploma,male,84999.5,79
+8,Some College,male,54999.5,46
+5,Some College,male,27499.5,21
+5,Some College,female,23499.5,82
+8,HS Diploma,female,84999.5,67
+4,Graduate Degree,female,84999.5,52
+6,Graduate Degree,male,64999.5,24
+10,No HS Diploma,male,1499.5,57
+5,Some College,NA,64999.5,30
+7,HS Diploma,female,42499.5,57
+6,BA or BS,male,74999.5,63
+NA,No HS Diploma,male,13999.5,50
+9,HS Diploma,male,5999.5,33
+6,BA or BS,male,32499.5,56
+6,Graduate Degree,male,120000,53
+NA,No HS Diploma,male,120000,67
+NA,Some College,female,64999.5,54
+NA,Graduate Degree,male,120000,67
+5,HS Diploma,male,3999.5,43
+7,HS Diploma,male,23499.5,51
+5,HS Diploma,male,64999.5,22
+NA,HS Diploma,male,74999.5,53
+4,Some College,female,74999.5,45
+4,Some College,male,3999.5,21
+NA,Some College,male,NA,47
+6,BA or BS,female,84999.5,63
+5,HS Diploma,female,NA,44
+9,Some College,female,13999.5,51
+5,HS Diploma,female,15999.5,25
+3,Graduate Degree,female,120000,57
+8,BA or BS,male,42499.5,56
+6,Some College,female,64999.5,21
+7,HS Diploma,male,32499.5,28
+NA,HS Diploma,male,64999.5,23
+5,HS Diploma,female,27499.5,54
+NA,Some College,male,NA,20
+6,HS Diploma,male,1499.5,63
+5,Some College,female,97499.5,65
+NA,Some College,female,120000,53
+2,BA or BS,female,84999.5,54
+5,No HS Diploma,female,32499.5,82
+NA,HS Diploma,female,20999.5,66
+2,Graduate Degree,female,64999.5,54
+3,Graduate Degree,male,42499.5,68
+8,HS Diploma,male,54999.5,55
+5,BA or BS,female,64999.5,31
+4,HS Diploma,male,74999.5,31
+7,BA or BS,female,32499.5,36
+NA,No HS Diploma,female,27499.5,61
+7,Graduate Degree,female,97499.5,25
+7,Some College,female,47499.5,31
+NA,Some College,male,54999.5,36
+4,BA or BS,male,112000,77
+NA,Some College,male,1499.5,39
+10,HS Diploma,female,3999.5,49
+NA,BA or BS,male,84999.5,55
+NA,Some College,female,13999.5,30
+6,HS Diploma,male,11999.5,51
+4,Some College,female,64999.5,34
+5,Some College,male,NA,44
+5,BA or BS,female,NA,36
+5,HS Diploma,female,NA,35
+NA,BA or BS,male,42499.5,24
+3,Some College,male,13999.5,23
+NA,Graduate Degree,female,54999.5,45
+7,Some College,female,54999.5,30
+1,BA or BS,male,54999.5,35
+10,HS Diploma,male,84999.5,20
+8,Some College,female,20999.5,25
+NA,No HS Diploma,male,13999.5,66
+5,Graduate Degree,female,74999.5,36
+5,HS Diploma,male,32499.5,41
+7,HS Diploma,male,74999.5,69
+5,Some College,male,64999.5,19
+10,HS Diploma,male,23499.5,75
+NA,Some College,female,37499.5,50
+0,Graduate Degree,female,47499.5,29
+5,No HS Diploma,male,64999.5,49
+5,BA or BS,female,54999.5,33
+10,No HS Diploma,female,15999.5,20
+NA,Some College,male,NA,19
+7,Some College,female,64999.5,52
+5,Some College,female,74999.5,54
+7,Some College,male,54999.5,53
+5,Some College,male,84999.5,67
+6,HS Diploma,female,64999.5,51
+NA,Some College,female,74999.5,48
+5,HS Diploma,female,NA,82
+NA,BA or BS,male,97499.5,34
+10,Some College,male,37499.5,45
+5,Graduate Degree,female,120000,36
+8,Some College,male,32499.5,41
+NA,Some College,female,84999.5,34
+NA,No HS Diploma,male,32499.5,32
+5,HS Diploma,male,23499.5,48
+NA,Some College,female,18499.5,49
+3,No HS Diploma,female,1499.5,86
+9,BA or BS,female,42499.5,63
+8,Some College,female,42499.5,61
+8,BA or BS,male,74999.5,40
+NA,Some College,male,54999.5,50
+10,HS Diploma,female,42499.5,63
+5,HS Diploma,male,84999.5,49
+8,Some College,male,27499.5,25
+2,BA or BS,female,64999.5,44
+7,Some College,male,23499.5,25
+NA,BA or BS,male,NA,64
+10,No HS Diploma,female,15999.5,64
+NA,HS Diploma,female,27499.5,78
+5,Some College,female,64999.5,58
+2,BA or BS,male,1499.5,23
+10,Some College,male,120000,61
+NA,Some College,female,97499.5,41
+5,No HS Diploma,male,NA,76
+NA,HS Diploma,male,120000,44
+NA,HS Diploma,female,37499.5,54
+6,Some College,male,23499.5,70
+7,HS Diploma,male,97499.5,39
+1,Graduate Degree,NA,112000,44
+NA,No HS Diploma,female,7999.5,64
+8,Some College,male,3999.5,19
+6,Graduate Degree,male,120000,56
+NA,Graduate Degree,female,74999.5,28
+1,BA or BS,male,NA,39
+1,No HS Diploma,NA,27499.5,26
+8,HS Diploma,male,74999.5,33
+4,Some College,female,64999.5,29
+10,Some College,male,54999.5,34
+8,Some College,male,84999.5,49
+0,Some College,female,3999.5,46
+NA,BA or BS,male,74999.5,30
+8,BA or BS,male,112000,59
+4,Some College,male,42499.5,48
+5,Some College,female,120000,21
+NA,BA or BS,female,97499.5,33
+NA,BA or BS,female,54999.5,44
+NA,HS Diploma,female,27499.5,21
+10,Some College,female,97499.5,49
+5,Some College,female,64999.5,31
+8,HS Diploma,male,74999.5,20
+10,HS Diploma,female,7999.5,84
+9,Graduate Degree,male,120000,55
+3,BA or BS,male,27499.5,24
+7,Graduate Degree,NA,64999.5,50
+10,Some College,male,13999.5,26
+3,Graduate Degree,female,23499.5,63
+9,BA or BS,female,120000,50
+7,Some College,female,3999.5,44
+5,BA or BS,female,37499.5,65
+0,Some College,female,1499.5,28
+2,HS Diploma,male,54999.5,24
+5,HS Diploma,male,3999.5,22
+3,BA or BS,female,11999.5,55
+6,Some College,male,37499.5,42
+3,BA or BS,male,64999.5,26
+5,HS Diploma,male,84999.5,44
+7,Some College,male,97499.5,22
+8,Some College,female,NA,35
+NA,HS Diploma,female,11999.5,71
+6,HS Diploma,male,47499.5,66
+6,BA or BS,female,1499.5,23
+5,Graduate Degree,male,97499.5,42
+4,BA or BS,NA,120000,50
+NA,HS Diploma,female,11999.5,24
+NA,Some College,female,32499.5,56
+8,BA or BS,male,64999.5,66
+5,Some College,female,84999.5,47
+5,HS Diploma,male,NA,50
